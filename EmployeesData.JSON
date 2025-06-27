@@ -1,0 +1,164 @@
+{
+  "employees": [
+    {
+      "id": "E1001",
+      "name": "Rohit Sharma",
+      "designation": "Software Engineer",
+      "department": "IT",
+      "location": "Hyderabad",
+      "salary": {
+        "basic": 50000,
+        "hra": 20000,
+        "allowances": 10000,
+        "bonus": 5000,
+        "deductions": 3000,
+        "netPay": 82000
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1002",
+      "name": "Priya Verma",
+      "designation": "Senior Developer",
+      "department": "Development",
+      "location": "Bangalore",
+      "salary": {
+        "basic": 60000,
+        "hra": 25000,
+        "allowances": 12000,
+        "bonus": 7000,
+        "deductions": 4000,
+        "netPay": 100000
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1003",
+      "name": "Amit Patel",
+      "designation": "DevOps Engineer",
+      "department": "Infrastructure",
+      "location": "Pune",
+      "salary": {
+        "basic": 55000,
+        "hra": 22000,
+        "allowances": 11000,
+        "bonus": 6000,
+        "deductions": 3500,
+        "netPay": 91500
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1004",
+      "name": "Sneha Reddy",
+      "designation": "QA Engineer",
+      "department": "Quality Assurance",
+      "location": "Chennai",
+      "salary": {
+        "basic": 48000,
+        "hra": 19000,
+        "allowances": 9000,
+        "bonus": 4500,
+        "deductions": 2800,
+        "netPay": 78700
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1005",
+      "name": "Karan Mehta",
+      "designation": "Business Analyst",
+      "department": "Product",
+      "location": "Mumbai",
+      "salary": {
+        "basic": 52000,
+        "hra": 21000,
+        "allowances": 9500,
+        "bonus": 4800,
+        "deductions": 3100,
+        "netPay": 84200
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1006",
+      "name": "Anjali Nair",
+      "designation": "Data Scientist",
+      "department": "Analytics",
+      "location": "Noida",
+      "salary": {
+        "basic": 65000,
+        "hra": 27000,
+        "allowances": 13000,
+        "bonus": 7500,
+        "deductions": 4200,
+        "netPay": 108300
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1007",
+      "name": "Rakesh Yadav",
+      "designation": "UI/UX Designer",
+      "department": "Design",
+      "location": "Ahmedabad",
+      "salary": {
+        "basic": 49000,
+        "hra": 20000,
+        "allowances": 10000,
+        "bonus": 5000,
+        "deductions": 3000,
+        "netPay": 84000
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1008",
+      "name": "Neha Sinha",
+      "designation": "Project Manager",
+      "department": "Management",
+      "location": "Kolkata",
+      "salary": {
+        "basic": 70000,
+        "hra": 30000,
+        "allowances": 15000,
+        "bonus": 9000,
+        "deductions": 5000,
+        "netPay": 119000
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1009",
+      "name": "Siddharth Jain",
+      "designation": "System Administrator",
+      "department": "IT Support",
+      "location": "Jaipur",
+      "salary": {
+        "basic": 46000,
+        "hra": 18000,
+        "allowances": 8500,
+        "bonus": 4000,
+        "deductions": 2500,
+        "netPay": 74000
+      },
+      "paymentDate": "2025-06-30"
+    },
+    {
+      "id": "E1010",
+      "name": "Divya Kapoor",
+      "designation": "Tech Lead",
+      "department": "Engineering",
+      "location": "Gurgaon",
+      "salary": {
+        "basic": 75000,
+        "hra": 32000,
+        "allowances": 16000,
+        "bonus": 10000,
+        "deductions": 5500,
+        "netPay": 127500
+      },
+      "paymentDate": "2025-06-30"
+    }
+  ]
+}
